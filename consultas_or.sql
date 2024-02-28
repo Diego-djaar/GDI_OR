@@ -1,0 +1,4 @@
+SELECT
+    VALUE(M)
+FROM
+    TB_MEDICO M;
